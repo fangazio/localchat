@@ -6,6 +6,8 @@
 
 这是一个基于 Python、[Streamlit](https://streamlit.io/) 和 [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) 实现的本地聊天机器人应用。它允许你在本地机器上运行 **GGUF** 格式的语言模型，并提供一个友好的 Web 界面，支持聊天历史和流式输出。
 
+这里pip llma-cpp可能会出错，特别是windows上，关于whl的错误需要手动下载你的python版本的whl，[下载地址](https://github.com/abetlen/llama-cpp-python/releases?page=4)
+
 ## ✨ 特性
 
 *   **本地模型支持：** 使用高效的 `llama-cpp-python` 库运行 GGUF 格式的模型。
