@@ -1,4 +1,4 @@
-这是一个为您的 Streamlit 本地聊天应用量身定制的 GitHub README 文件。
+这里只是一个简单的py脚本应用
 
 ---
 
